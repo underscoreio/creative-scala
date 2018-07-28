@@ -13,7 +13,8 @@ We need to install:
 
 Open the terminal. (Click the magnifying icon on the top righthand side of the toolbar. Type in "terminal".)
 
-Install Java
+Install Java 8, if you have issues, see [this gist](https://gist.github.com/chriskaschner/541397736480c514cd561682ec34ce4f)
+
 Type into the terminal
 
 ```bash
