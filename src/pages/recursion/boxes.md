@@ -122,7 +122,7 @@ All you to do is change `beside` to `above` in `boxes`.
 def stackedBoxes(count: Int): Image =
   count match {
     case 0 => Image.empty
-    case n => aBox beside stackedBoxes(n-1)
+    case n => aBox above stackedBoxes(n-1)
   }
 ```
 </div>
