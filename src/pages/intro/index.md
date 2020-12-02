@@ -18,7 +18,7 @@ Firstly, we believe that functional programming is the future.
 Since we're assuming you have little programming experience we won't go into the details of the differences between functional programming and object-oriented programming that you may have already experienced.
 Suffice to say there are different ways to think about and write computer programs, and we've chosen the functional programming approach.
 
-The reason for choosing functional programming are more interesting.
+The reasons for choosing functional programming are more interesting.
 It's common to teach programming by what we call the "bag of syntax" approach.
 In this approach a programming language is taught a collection of syntactical features (variables, for loops, while loops, methods) and students are left to figure out on their own when to use each feature.
 We've seen this method fail both when we were undergraduates learning programming, and as postgraduates teaching programming, as students simply have no systematic way to break down a problem and turn it into code.
